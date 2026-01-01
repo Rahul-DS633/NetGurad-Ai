@@ -8,4 +8,10 @@ Slow internet, dead zones, and failed emergency communication on campus.
 Crowdsourced network monitoring + AI insights + SOS fail-safe.
 
 ## Tech Stack
-Antigravity, Firebase, Gemini API, Google Maps
+Core: HTML5, Vanilla JavaScript (ES6+ Modules)
+Styling: Vanilla CSS (Premium Dark Mode, Glassmorphism, CSS Variables)
+Routing: Custom Hash-based Router
+Backend (Simulated/Real): Firebase SDK (via CDN)
+AI: Google Gemini API (via REST/SDK)
+Maps: Google Maps JS API (via CDN)
+
